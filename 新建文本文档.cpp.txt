@@ -1,0 +1,6 @@
+#include <stadio.h>
+{
+   int a,b
+   c=a+b
+   printf(c)
+}
