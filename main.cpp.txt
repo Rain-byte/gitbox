@@ -6,3 +6,4 @@ void
    c=a+b
    printf(c)
 }
+//end
